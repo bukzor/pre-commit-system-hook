@@ -1,0 +1,5 @@
+-   id: system
+    name: (no name)
+    entry: (no entry)
+    language: system
+    files: $^
